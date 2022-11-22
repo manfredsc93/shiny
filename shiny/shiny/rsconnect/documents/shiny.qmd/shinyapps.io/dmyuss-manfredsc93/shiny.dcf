@@ -1,0 +1,15 @@
+name: shiny
+title: shiny
+username:
+account: dmyuss-manfredsc93
+server: shinyapps.io
+hostUrl: https://api.shinyapps.io/v1
+appId: 7699224
+bundleId: 6541097
+url: https://dmyuss-manfredsc93.shinyapps.io/shiny/
+when: 1669076863.59294
+lastSyncTime: 1669076863.59296
+quarto_version: 1.1.189
+quarto_engines: knitr
+asMultiple: FALSE
+asStatic: FALSE

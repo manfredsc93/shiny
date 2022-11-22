@@ -1,0 +1,1 @@
+rsconnect::setAccountInfo(name='dmyuss-manfredsc93', token='0545B9BEC8C76E2E7285E4B8F05B9754', secret='USN1WLgF7nqxxWgnMLSwTci+LflqaQzLFgQOc4Ak')
